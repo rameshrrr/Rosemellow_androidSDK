@@ -1,0 +1,3 @@
+rootProject.name = "SampleSDK"
+include ':app'
+include ':rosemellowSDK'
